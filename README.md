@@ -1,4 +1,4 @@
-### Hi there 👋
+### Namastê, eu sou a Vih** 👋
 
 <!--
 **V1t0r1a-C001/V1t0r1a-C001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 nightowl-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V1t0r1a-C001&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=V1t0r1a-C001&count_private=true&theme=nightowl)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V1t0r1a-C001&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=V1t0r1a-C001&count_private=true&theme=nightowl)
+
 
