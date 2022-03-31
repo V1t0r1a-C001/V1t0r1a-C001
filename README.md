@@ -1,4 +1,5 @@
 ### Namastê, eu sou a Vih 👋  
+ 🌱 I’m currently learning desenvolvimento web full stack 
 
 
    ![gifbmo](https://user-images.githubusercontent.com/56237420/138191071-3f40a08c-1287-444a-8a51-c2048003c8cf.gif) 
@@ -7,9 +8,6 @@
 
 
 <!--
-**V1t0r1a-C001/V1t0r1a-C001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning desenvolvimento web full stack ...
 - 👯 I’m looking to collaborate on ...
